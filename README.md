@@ -9,7 +9,7 @@
 - **`/notes`**: Concepts explained (filesystem, permissions,etc.).
 
 - **`/scripts`**: Ready-to-use scripts .
-- **`/exercises`**: Course assignments + my solutions.
+- **`/Final Project`**:  my solutions.
 - **`/resources`**: Cheatsheets and external references.
 
 ---
